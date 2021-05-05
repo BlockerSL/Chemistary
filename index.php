@@ -1,7 +1,7 @@
 <?php
-$$_GET["sahand2"];
+$$_GET["sahand"];
 
-if($_GET["sahand2"]==="Br")
+if($_GET["sahand"]==="Br")
 {
 	echo "Complate Login";
 	
